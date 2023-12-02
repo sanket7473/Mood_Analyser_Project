@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 /*
 * @Desc:MoodAnalyserTest class is containing a
   givenTheMoodShouldReturnSad() and givenTheMoodShouldReturnHappy().
+  *Updated code with UC1
 **/
 public class MoodAnalyserTest {
     MoodAnalyser moodAnalyser=new MoodAnalyser();
